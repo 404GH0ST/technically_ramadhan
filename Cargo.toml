@@ -6,5 +6,5 @@ edition = "2024"
 [dependencies]
 
 [[bin]]
-name = "positive_negative_sum"
-path = "src/positive_negative_sum.rs"
+name = "count_positives_sum_negatives"
+path = "src/count_positives_sum_negatives.rs"
