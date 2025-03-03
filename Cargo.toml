@@ -1,0 +1,10 @@
+[package]
+name = "technically_ramadhan"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+
+[[bin]]
+name = "positive_negative_sum"
+path = "src/positive_negative_sum.rs"
