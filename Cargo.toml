@@ -8,3 +8,7 @@ edition = "2024"
 [[bin]]
 name = "count_positives_sum_negatives"
 path = "src/count_positives_sum_negatives.rs"
+
+[[bin]]
+name = "words_to_marks"
+path = "src/words_to_marks.rs"
