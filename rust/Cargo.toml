@@ -12,3 +12,7 @@ path = "src/day1/count_positives_sum_negatives.rs"
 [[bin]]
 name = "words_to_marks"
 path = "src/day2/words_to_marks.rs"
+
+[[bin]]
+name = "high"
+path = "src/day4/high.rs"
