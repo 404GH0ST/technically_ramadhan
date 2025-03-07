@@ -3,6 +3,6 @@ def alt_or(lst):
         return None
 
     for b in lst:
-        if b == True:
+        if b:
             return True
     return False
